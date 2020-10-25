@@ -1,2 +1,2 @@
 # Certificates
-Certificates of Completed Courses
+Certificates of Cerifications and completed Courses
