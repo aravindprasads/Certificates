@@ -1,11 +1,11 @@
 Certificates Catalogue
 ========================
 
-<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Google_Cloud_Engineer.pdf">GCP Cloud Architect</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/TC6KL8HU7TDX">GCP Cloud Architect</a>
 
-<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Google_Cloud_Architect.pdf">GCP Cloud Engineer</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BQPGV5REFP34">GCP Cloud Engineer</a>
 
-<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/AWS_Certification.pdf">AWS Containerizations</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/SBXAS8GLSUVM">AWS Containerizations</a>
 
 <a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Kubernetes.pdf">Kubernetes</a>
 
