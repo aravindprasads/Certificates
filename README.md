@@ -1,19 +1,19 @@
 Certificates Catalgue
 ===========================
 
-AWS Containerizations - <a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/AWS_Certification.pdf">AAA</a>
+<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Google_Cloud_Engineer.pdf">GCP Cloud Architect</a>
 
-GCP Cloud Architect - https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Google_Cloud_Architect.pdf
+<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Google_Cloud_Architect.pdf">GCP Cloud Engineer</a>
 
-GCP Cloud Engineer - https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Google_Cloud_Engineer.pdf
+<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/AWS_Certification.pdf">AWS Containerizations</a>
 
-Kubernetes -  https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Kubernetes.pdf
+<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Kubernetes.pdf">Kubernetes</a>
 
-Kubernetes Multi-Containers and Volumes - https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Kubernetes_Multi_Containers_and_Volumes.pdf
+<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Kubernetes_Multi_Containers_and_Volumes.pdf">Kubernetes Multi-Containers and Volumes</a>
 
-Kubernetes Deployment - https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Kubernetes_deployment.pdf
+<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Kubernetes_deployment.pdf">Kubernetes Deployment</a>
 
-Microservices - https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Microservices.pdf
+<a href="https://github.com/aravindprasads/Certifications_Catalogue/blob/main/Microservices.pdf">Microservices</a>
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
