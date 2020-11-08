@@ -1,4 +1,3 @@
-
 <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/TC6KL8HU7TDX">GCP Cloud Architect</a></b>
 
 <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BQPGV5REFP34">GCP Cloud Engineer</a></b>
